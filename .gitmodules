@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:zl-cs/zl-cs.github.io.git
+	branch = master
