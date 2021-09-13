@@ -21,6 +21,11 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+ # Responsibilities include:
+        
+        # * Analysing
+        # * Modelling
+        # * Deploying
 experience:
   - title: Research Assistant 
     company: The Internet and Mobile Computing Laboratory (IMCL) in the Hong Kong Polytechnic University
@@ -30,20 +35,35 @@ experience:
     date_start: '2021-09-23'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+       
         
   - title: PhD candidate
     company: Shanghai Jiao Tong University 
     company_url: 'https://www.sjtu.edu.cn/'
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: org-sjtu
+    location: Shanghai
+    date_start: '2018-09-01'
+    date_end: ''
+    description:
+        Selected for [Zhiyuan Honorary Doctoral Program](https://www.gs.sjtu.edu.cn/zljs/bsszyryjh.htm)
+
+  - title: Bachelor of Engineering in Computer Science and Technology
+    company: Northeastern University 
+    company_url: 'http://www.neu.edu.cn/'
+    company_logo: org-neu
+    location: Liaoning
+    date_start: '2014-10-09'
+    date_end: '2018-06-23'
+    description: |2-
+        Awards include:
+        * National Scholarship for Undergraduate Students (Nov 2015 and Nov 2017)
+        * Outstanding Graduates of Liaoning Province (Jan 2018)
+        * Excellent Students of Northeastern University (Dec 2015 and Dec 2016)
+        * The First-class Scholarship of Northeastern University (Oct 2015 and Oct 2016)
+        * 2016 MCM/ICM Honorable Mention (Jan 2016)
+        
+
+        
 
 design:
   columns: '2'

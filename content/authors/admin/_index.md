@@ -48,15 +48,15 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/zl-cs
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -71,6 +71,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Ph.D. candidate in Emerging Parallel Computing Center ([EPCC](http://epcc.sjtu.edu.cn/)), the Department of Computer Science and Engineering, Shanghai Jiao Tong University. My supervisor is [Prof. Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/) and Dr. Wenli Zheng. My research interests include stream computing, resource scheduling and approximate computing, for large-scale distributed systems and Internet of Things (IoT).
+I am a Ph.D. candidate in Emerging Parallel Computing Center ([EPCC](http://epcc.sjtu.edu.cn/)), the Department of Computer Science and Engineering, Shanghai Jiao Tong University. My supervisors are [Prof. Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/) and Dr. Wenli Zheng. My research interests include stream computing, resource scheduling and approximate computing, for large-scale distributed systems and Internet of Things (IoT).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
