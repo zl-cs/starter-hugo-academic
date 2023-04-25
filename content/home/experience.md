@@ -33,7 +33,7 @@ experience:
     company_logo: org-icml
     location: Hong Kong
     date_start: '2021-09-23'
-    date_end: ''
+    date_end: '2022-11-27'
     description: |2-
        
         
