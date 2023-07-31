@@ -34,8 +34,9 @@ education:
 
 interests:
 - Stream Computing
-- Resource Scheduling
-- Approximate Computing
+- Edge Computing
+- Resource management
+- Task scheduling
 
 # Social/Academic Networking 
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,6 +72,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Ph.D. candidate in Emerging Parallel Computing Center ([EPCC](http://epcc.sjtu.edu.cn/)), the Department of Computer Science and Engineering, Shanghai Jiao Tong University. My supervisors are [Prof. Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/) and [Prof. Hongzi Zhu](https://lion.sjtu.edu.cn/member/memberDetail?id=12). My research interests include stream computing, resource scheduling and approximate computing, for large-scale distributed systems and Internet of Things (IoT).
+I am a Ph.D. candidate in Emerging Parallel Computing Center ([EPCC](http://epcc.sjtu.edu.cn/)), the Department of Computer Science and Engineering, Shanghai Jiao Tong University. My supervisors are [Prof. Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/) and [Prof. Hongzi Zhu](https://lion.sjtu.edu.cn/member/memberDetail?id=12). My research interests include resource scaling and task scheduling in stream computing and edge computing scenarios.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
