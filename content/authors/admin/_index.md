@@ -19,8 +19,9 @@ bio: My research interests include stream computing, resource scheduling and app
 # Interests to show in About widget
 interests:
 - Stream Computing
-- Resource Scheduling
-- Approximate Computing
+- Edge Computing
+- Resource management
+- Task scheduling
 
 # Education to show in About widget
 education:
@@ -32,11 +33,7 @@ education:
     institution: Northeastern University, Liaoning, China
     year: 2014 - 2018
 
-interests:
-- Stream Computing
-- Edge Computing
-- Resource management
-- Task scheduling
+
 
 # Social/Academic Networking 
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
