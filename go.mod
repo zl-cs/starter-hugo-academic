@@ -1,4 +1,6 @@
-module github.com/wowchemy/starter-hugo-academic
+module github.com/zl-cs/starter-hugo-academic
 
-go 1.15
+
+go 1.20
+
 
