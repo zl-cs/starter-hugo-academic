@@ -37,7 +37,7 @@ experience:
     description: |2-
        
         
-  - title: PhD candidate
+  - title: PhD student
     company: Shanghai Jiao Tong University 
     company_url: 'https://www.sjtu.edu.cn/'
     company_logo: org-sjtu

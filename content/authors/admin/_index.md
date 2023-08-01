@@ -6,7 +6,7 @@ title: Zhang Liang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include stream computing, resource scheduling and approximate computing for large-scale distributed systems.
+bio: My research interests include resource scaling and task scheduling in stream computing and edge computing scenarios.
 
 # Interests to show in About widget
 interests:
