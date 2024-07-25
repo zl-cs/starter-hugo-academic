@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: http://cjc.ict.ac.cn/online/onlinepaper/cxq-20201230112319.pdf
 url_code:
 url_dataset:
 url_poster:
