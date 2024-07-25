@@ -32,7 +32,7 @@ summary: "In this work, we design and develop ENTS, the first edge-native task s
 
 tags: [edge computing]
 categories: [edge computing]
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

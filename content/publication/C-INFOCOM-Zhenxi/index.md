@@ -32,7 +32,7 @@ summary: "In  this  paper,  we  propose  an  online long-range  PCR  scheme  in 
 
 tags: [edge computing]
 categories: [edge computing]
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

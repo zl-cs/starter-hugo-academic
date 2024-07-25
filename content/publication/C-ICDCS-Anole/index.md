@@ -33,7 +33,7 @@ summary: "To  automatically  identify model-friendly scenes  for  training scene
 
 tags: [edge AI]
 categories: [edge AI]
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
